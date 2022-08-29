@@ -1,6 +1,6 @@
 'use strict';
 //Task 1
-const allElements = document.getElementsByTagName('*').length
+const allElements = document.getElementsByTagName('li').length
 console.log(allElements);
 //Task 2
 let result = [];
